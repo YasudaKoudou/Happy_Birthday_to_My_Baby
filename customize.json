@@ -3,23 +3,28 @@
   "name": "我家宝~",
   "greetingText": "亲亲我家宝宝 (づ￣3￣)づ╭❤～",
   
-  "wishText": "希望以后不会再因为我的直男让我家宝失望惹 (～￣(OO)￣)ブ",
-  "imagePath": "img/lydia2.png",
-  
   "text1": "今天是我家宝的生日",
   "textInChatBox": "祝我家宝生日快乐呀 φ(≧ω≦*)♪",
   "sendButtonLabel": "发送",
+
   "text2": "呜呜呜虽然今天都快过去了",
   "text3": "但还是想要踩着今天的尾巴",
+
   "text4": "给我家宝送上生日电子贺卡，",
   "text4Adjective": "独一无二的一份",
+
   "text5Entry": "毕竟",
-  "text5Content": "你也是我的唯一呀！",
-  "smiley": ":)",
-  "bigTextPart1": "mua",
-  "bigTextPart2": "呱",
+  "text5Content": "你也是我的唯一呐！",
+  "smiley": "贴贴(*￣▽￣)((≧︶≦*)",
+
+  "bigTextPart1": "mua~",
+  "bigTextPart2": "呱~",
+
   "wishHeading": "Happy Birthday!",
-  "outroText": "（有点简陋，都是我现学现卖的，希望我家宝宝喜欢呜呜呜）",
+  "wishText": "我家小仙女永远18岁！希望我家宝一直开开心心，不开心也没事，有juju呢 (～￣(OO)￣)ブ",
+  "imagePath": "img/1.png",
+
+  "outroText": "（有点简陋，都是我现学现卖的，希望我家宝宝喜欢呜呜呜 (。﹏。)）",
   "replayText": "如果点我还可以再看一遍哦，嘿嘿~",
-  "outroSmiley": "贴贴(*￣▽￣)((≧︶≦*)"
+  "outroSmiley": ":)"
 }

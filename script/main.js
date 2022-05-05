@@ -128,7 +128,7 @@ const animationTimeline = () => {
         y: -150
       },
       // "+=0.7"
-      "+=3"
+      "+=4"
     )
     .from(".idea-1", 0.7, ideaTextTrans)
     .to(".idea-1", 0.7, ideaTextTransLeave, "+=1.5")
@@ -140,8 +140,8 @@ const animationTimeline = () => {
       x: 10,
       backgroundColor: "rgb(21, 161, 237)",
       color: "#fff"
-    })
-    .to(".idea-3", 0.7, ideaTextTransLeave, "+=3")
+    }, "+=1.5")
+    .to(".idea-3", 0.7, ideaTextTransLeave, "+=1.5")
     .from(".idea-4", 0.7, ideaTextTrans)
     .to(".idea-4", 0.7, ideaTextTransLeave, "+=1.5")
     .from(
@@ -215,8 +215,7 @@ const animationTimeline = () => {
       ".lydia-dp",
       0.5,
       {
-        // scale: 3.5,
-        scale: 0.5,
+        scale: 3.5,
         opacity: 0,
         x: 25,
         y: -25,

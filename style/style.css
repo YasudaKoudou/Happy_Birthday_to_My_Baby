@@ -80,7 +80,8 @@ body {
   right: 5px;
   bottom: 5px;
   color: #fff;
-  background-color: rgb(21, 161, 237);
+  /* background-color: rgb(21, 161, 237); */
+  background-color: rgb(4,190,2);
   padding: 5px 8px;
   border-radius: 3px;
 }

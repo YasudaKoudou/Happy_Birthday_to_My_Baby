@@ -59,7 +59,6 @@ const animationTimeline = () => {
       visibility: "visible"
     })
     .from(".one", 0.7, {
-      duration: 10,
       opacity: 0,
       y: 10
     })

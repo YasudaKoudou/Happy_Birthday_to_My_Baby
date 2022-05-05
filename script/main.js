@@ -84,7 +84,7 @@ const animationTimeline = () => {
         y: 10
       },
       // "-=1"
-      "-=2"
+      "-=3"
     )
     .from(".three", 0.7, {
       opacity: 0,
@@ -127,8 +127,7 @@ const animationTimeline = () => {
         opacity: 0,
         y: -150
       },
-      // "+=0.7"
-      "+=4"
+      "+=0.7"
     )
     .from(".idea-1", 0.7, ideaTextTrans)
     .to(".idea-1", 0.7, ideaTextTransLeave, "+=1.5")
